@@ -1,0 +1,1 @@
+https://omahaproxy.appspot.com/
